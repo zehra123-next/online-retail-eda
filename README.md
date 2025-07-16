@@ -1,4 +1,5 @@
-Online Retail Sales EDA
+Online Retail Sales EDA:
+
 This project involves Exploratory Data Analysis (EDA) of an e-commerce retail dataset to uncover insights on customer behavior, product performance, and sales trends. The analysis was performed using Python (Pandas, Matplotlib, Seaborn) and the final insights were visualized in an interactive Power BI dashboard.
 
 Uploaded Files:
